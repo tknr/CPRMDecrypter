@@ -1,0 +1,7 @@
+CPRM ContentsKey Get Ver 0.41 by taku
+MKB_TBL_I: 0
+MediaKey: e9 90 82 8b ef 09 c6 
+titleKey: ed d1 e7 5d 33 f4 6b 22 
+disk_Id: 01 00 09 10 6b 43 fe 63 
+ContentsKey: 3e c9 e1 91 e8 84 84 
+ContentsKey Base64: PsnhkeiEhA=
